@@ -17,3 +17,4 @@ spring:
           plan_parameter_metadata_max_size: 64
 
 spring.batch.job.names: ${job.name:NONE}
+logging.level.org.springframework.batch: DEBUG
